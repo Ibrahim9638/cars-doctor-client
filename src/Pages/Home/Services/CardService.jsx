@@ -14,7 +14,7 @@ const CardService = ({ service }) => {
             className="rounded-xl"
           />
         </figure>
-        <div className="card-body  ">
+        <div className="card-body ">
           <h2 className="card-title font-bold">{title}</h2>
           <p className="text-[#ec4899] text-lg font-bold">Price: ${price}</p>
           <div className="card-actions justify-end">
